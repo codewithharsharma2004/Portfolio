@@ -31,7 +31,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "Developed a responsive, AI-powered virtual assistant web application with real-time NLP interaction. Integrated Google Gemini API for intelligent and contextual query handling.",
-    technologies: ["HTML", "CSS", "React"],
+    technologies: ["HTML","CSS","React"],
     link: "https://harshvirtualassitant.netlify.app/",
   },
   {
@@ -39,7 +39,7 @@ export const PROJECTS = [
     image: project2,
     description:
       "Developed a responsive job listing platform with search and filter by title, location, and company. Integrated Supabase for secure backend, Clerk for authentication, and real-time APIs for dynamic job listings.",
-    technologies: ["Tailwind CSS", "React", "JavaScript", "Shadcn", "Clerk", "Supabase"],
+    technologies: ["Tailwind","React","Shadcn","Clerk","Supabase"],
     link: "https://joblio2-vtx1.vercel.app/"
   },
   {
@@ -47,7 +47,7 @@ export const PROJECTS = [
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["Tailwind CSS", "React", "JavaScript", "Framer  Motion"],
+    technologies: ["Tailwind","React","Framer  Motion"],
   },
   
 ];
