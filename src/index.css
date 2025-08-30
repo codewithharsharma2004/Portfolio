@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Serif+Display&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  font-family: "Inter", sans-serif;
+}
+
+/* global styles */
+html {
+  scroll-behavior: smooth;
+  background-color: #000; /* black background */
+  color: #e5e7eb;         /* neutral-300 / light text for readability */
+}
+
+/* ensure body doesn't override html bg if you set body styles elsewhere */
+body {
+  background: transparent;
+}
+
